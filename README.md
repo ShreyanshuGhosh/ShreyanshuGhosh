@@ -103,11 +103,6 @@ A hackathon submission around India's UIDAI dataset — data analysis, insights,
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShreyanshuGhosh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0" height="165"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShreyanshuGhosh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0" height="165"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=ShreyanshuGhosh&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" width="49%"/>
 
 </div>
