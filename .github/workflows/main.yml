@@ -9,6 +9,10 @@ on:
     branches:
     - main
 
+# THIS IS THE MAGIC FIX
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
