@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Data+%26+ML+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%8D;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Data+%26+ML+Enthusiast;Open+Source+Contributor+%F0%9F%8C%8D;Always+learning%2C+always+building." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -13,7 +13,7 @@
 <!-- PROFILE BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ShreyanshuGhosh&label=Profile+Views&color=64ffda&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshu-ghosh)
-[![GitHub](https://img.shields.io/badge/GitHub-ShreyanshuGhosh-181717?style=flat-square&logo=github)](https://github.com/ShreyanshuGhosh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_shreyanshu.17/)
 
 </div>
 
@@ -21,53 +21,73 @@
 
 ## 👤 About Me
 
-Hey, I'm **Shreyanshu** — a CS student from India who believes that smart work, not just hard work, is what moves the needle.
+Hey, I'm **Shreyanshu** — an ECE student at **BIT Mesra,India** working at the intersection of **AI/ML and full-stack development**, building production-grade intelligent systems, contributing to open source, and exploring the depth of MLOps pipelines.
 
-I build full-stack web applications, explore computer vision & data problems, and obsess over clean, purposeful code. Whether it's architecting a backend system or debugging a subtle UI glitch at 2am — I'm in.
-
-- 🏗️ Currently building scalable full-stack apps with **Next.js + Node.js**
-- 🌱 Deepening my understanding of **System Design** and **Machine Learning**
+- 🤖 Currently working on **production-level AI/ML projects** with real-world impact
+- 🛠️ Hands-on with **Python, ML pipelines, and MLOps** workflows
+- 🌍 Active **open source contributor** — I believe in building in public
 - 🤝 Open to **collaborations, internships**, and interesting open-source contributions
-- 💡 Philosophy: *Clarity beats cleverness. Shipping beats perfecting.*
+- 💡 Philosophy: *Ship fast, learn faster. Clean code is a love language.*
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+**Languages & Databases**
 
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,mysql,postgres)](https://skillicons.dev)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend & Databases**
-
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,mysql)](https://skillicons.dev)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**DevOps, Tools & Cloud**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,figma)](https://skillicons.dev)
+**Libraries & Frameworks**
+
+[![Libraries](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)](https://skillicons.dev)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
+
+**Data Visualization**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**MLOps**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-FF4A4A?style=flat-square&logo=dagshub&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**DevOps & Tools**
+
+[![DevOps](https://skillicons.dev/icons?i=git,github,docker,aws,linux,kubernetes,githubactions,vscode)](https://skillicons.dev)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Quant & Finance Concepts**
+
+![Backtesting](https://img.shields.io/badge/Backtesting-0d1117?style=flat-square&logo=chartdotjs&logoColor=64ffda)
+![Alpha Generation](https://img.shields.io/badge/Alpha_Generation-0d1117?style=flat-square&logo=chartdotjs&logoColor=64ffda)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-0d1117?style=flat-square&logo=chartdotjs&logoColor=64ffda)
+![Risk Management](https://img.shields.io/badge/Risk_Management-0d1117?style=flat-square&logo=chartdotjs&logoColor=64ffda)
 
 ---
 
@@ -77,7 +97,7 @@ I build full-stack web applications, explore computer vision & data problems, an
 <tr>
 <td width="50%" valign="top">
 
-### 🌊 Marine Messiah
+###  Marine Messiah
 A computer vision project dedicated to marine life monitoring — built entirely using **OpenCV** in Jupyter Notebooks as part of the UN's *Life Under Water* goal.
 
 `Python` `OpenCV` `Jupyter` `CV`
@@ -87,7 +107,7 @@ A computer vision project dedicated to marine life monitoring — built entirely
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ Nite.Bite
+###  Nite.Bite
 A late-night food discovery app built with TypeScript — clean UI, real use case, and a name you won't forget.
 
 `TypeScript` `Full-Stack`
@@ -99,7 +119,7 @@ A late-night food discovery app built with TypeScript — clean UI, real use cas
 <tr>
 <td width="50%" valign="top">
 
-### 📚 E-Library
+###  E-Library
 A digital library system with a simple rule — borrow a book, but return it on time. Built in Python with a focus on usability.
 
 `Python` `Library System`
@@ -109,7 +129,7 @@ A digital library system with a simple rule — borrow a book, but return it on 
 </td>
 <td width="50%" valign="top">
 
-### 🆔 UIDAI Data Hackathon
+### UIDAI Data Hackathon
 A hackathon submission around India's UIDAI dataset — data analysis, insights, and real-world problem solving.
 
 `Data Analysis` `Hackathon`
@@ -125,11 +145,6 @@ A hackathon submission around India's UIDAI dataset — data analysis, insights,
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShreyanshuGhosh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0" height="165"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShreyanshuGhosh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0" height="165"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=ShreyanshuGhosh&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" width="49%"/>
 
