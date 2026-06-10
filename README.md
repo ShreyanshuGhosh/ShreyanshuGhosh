@@ -1,185 +1,188 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Shreyanshu%20Ghosh&fontColor=ffffff&fontSize=52&fontAlignY=70&desc=Building%20things%20that%20matter%2C%20one%20commit%20at%20a%20time.&descAlignY=88&descSize=16&descFontColor=8892b0&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=Shreyanshu%20Ghosh&fontColor=c0caf5&fontSize=55&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source&descAlignY=55&descSize=18&descColor=7aa2f7&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION -->
+<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Data+%26+ML+Enthusiast;Open+Source+Contributor+%F0%9F%8C%8D;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=BB9AF7&center=true&vCenter=true&width=650&lines=Building+production-grade+AI%2FML+systems;LLM+orchestration+%7C+MLOps+%7C+Quant+Finance;Ship+fast%2C+learn+faster+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- PROFILE BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=ShreyanshuGhosh&label=Profile+Views&color=64ffda&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshu-ghosh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_shreyanshu.17/)
+<!-- ═══════════════════ BADGES ═══════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=ShreyanshuGhosh&label=Profile+Views&color=7aa2f7&style=for-the-badge" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/shreyanshu-ghosh">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/_shreyanshu.17/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-bb9af7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b26" alt="Instagram"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## 👤 About Me
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+## ⚡ About Me
 
-Hey, I'm **Shreyanshu** — an ECE student at **BIT Mesra,India** working at the intersection of **AI/ML and full-stack development**, building production-grade intelligent systems, contributing to open source, and exploring the depth of MLOps pipelines.
+```python
+class Shreyanshu:
+    def __init__(self):
+        self.role      = "ECE @ BIT Mesra • ML Intern @ Tesk Labs"
+        self.building  = ["SYNQ — multi-provider LLM orchestration",
+                          "LLM-powered compliance tooling",
+                          "Quant alphas on WorldQuant Brain"]
+        self.stack     = ["Python", "PyTorch", "FastAPI", "MLOps", "Postgres/Redis"]
+        self.philosophy = "Ship fast, learn faster. Clean code is a love language."
 
-- 🤖 Currently working on **production-level AI/ML projects** with real-world impact
-- 🛠️ Hands-on with **Python, ML pipelines, and MLOps** workflows
+    def say_hi(self):
+        print("Let's build something that matters.")
+```
+
+- 🤖 Working on **production-level AI/ML systems** — LLM orchestration, RAG, compliance automation
+- 📈 Deep interest in **quantitative finance** — alpha generation, backtesting, time-series
 - 🌍 Active **open source contributor** — I believe in building in public
-- 🤝 Open to **collaborations, internships**, and interesting open-source contributions
-- 💡 Philosophy: *Ship fast, learn faster. Clean code is a love language.*
+- 🤝 Open to **collaborations & internships** — reach out anytime
 
+<br/>
 
----
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+## 🛠️ Tech Arsenal
 
-## 🛠️ Tech Stack
+<div align="center">
 
 **Languages & Databases**
 
-[![Languages](https://skillicons.dev/icons?i=python,cpp,mysql,postgres)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres,redis&theme=dark" alt="Languages"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**ML / AI**
 
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi&theme=dark" alt="ML"/>
 
-**Libraries & Frameworks**
+<img src="https://img.shields.io/badge/LLM_Orchestration-1a1b26?style=flat-square&logo=openai&logoColor=bb9af7"/> <img src="https://img.shields.io/badge/RAG_%2B_Vector_Search-1a1b26?style=flat-square&logo=databricks&logoColor=7aa2f7"/> <img src="https://img.shields.io/badge/LightGBM-1a1b26?style=flat-square&logo=python&logoColor=9ece6a"/> <img src="https://img.shields.io/badge/spaCy-1a1b26?style=flat-square&logo=spacy&logoColor=7dcfff"/> <img src="https://img.shields.io/badge/Qdrant-1a1b26?style=flat-square&logo=qdrant&logoColor=bb9af7"/>
 
-[![Libraries](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)](https://skillicons.dev)
+**MLOps & DevOps**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,githubactions,linux,cloudflare&theme=dark" alt="DevOps"/>
 
-**Data Visualization**
+<img src="https://img.shields.io/badge/MLflow-1a1b26?style=flat-square&logo=mlflow&logoColor=7aa2f7"/> <img src="https://img.shields.io/badge/DVC-1a1b26?style=flat-square&logo=dvc&logoColor=bb9af7"/> <img src="https://img.shields.io/badge/DagsHub-1a1b26?style=flat-square&logo=dagshub&logoColor=f7768e"/>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+**Quant & Finance**
 
+<img src="https://img.shields.io/badge/Alpha_Generation-1a1b26?style=flat-square&logo=chartdotjs&logoColor=9ece6a"/> <img src="https://img.shields.io/badge/Backtesting-1a1b26?style=flat-square&logo=chartdotjs&logoColor=7aa2f7"/> <img src="https://img.shields.io/badge/Time_Series-1a1b26?style=flat-square&logo=chartdotjs&logoColor=bb9af7"/> <img src="https://img.shields.io/badge/Risk_Management-1a1b26?style=flat-square&logo=chartdotjs&logoColor=f7768e"/>
 
-**MLOps**
+</div>
 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![DagsHub](https://img.shields.io/badge/DagsHub-FF4A4A?style=flat-square&logo=dagshub&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<br/>
 
-**DevOps & Tools**
-
-[![DevOps](https://skillicons.dev/icons?i=git,github,docker,aws,linux,kubernetes,githubactions,vscode)](https://skillicons.dev)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**Quant & Finance Concepts**
-
-![Backtesting](https://img.shields.io/badge/Backtesting-0d1117?style=flat-square&logo=chartdotjs&logoColor=64ffda)
-![Alpha Generation](https://img.shields.io/badge/Alpha_Generation-0d1117?style=flat-square&logo=chartdotjs&logoColor=64ffda)
-![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-0d1117?style=flat-square&logo=chartdotjs&logoColor=64ffda)
-![Risk Management](https://img.shields.io/badge/Risk_Management-0d1117?style=flat-square&logo=chartdotjs&logoColor=64ffda)
-
----
-
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-###  Marine Messiah
-A computer vision project dedicated to marine life monitoring — built entirely using **OpenCV** in Jupyter Notebooks as part of the UN's *Life Under Water* goal.
+### 🧠 SYNQ
+**Multi-provider LLM orchestration platform.** Seamless AI conversation continuity across Claude, GPT-4 & Gemini with automatic provider switching on rate limits. FastAPI backend, six-component context engine, Qdrant vector search, Postgres/Redis data plane, deployed at the Cloudflare edge.
 
-`Python` `OpenCV` `Jupyter` `CV`
+`FastAPI` `LiteLLM` `Qdrant` `Postgres` `Redis` `Cloudflare`
 
-[→ View Project](https://github.com/ShreyanshuGhosh/MARINE_MESSIAH)
+[![Repo](https://img.shields.io/badge/→_View_Project-1a1b26?style=for-the-badge&logo=github&logoColor=bb9af7)](https://github.com/ShreyanshuGhosh/SYNQ)
 
 </td>
 <td width="50%" valign="top">
 
-###  Nite.Bite
-A late-night food discovery app built with TypeScript — clean UI, real use case, and a name you won't forget.
+### 🌙 Nite.Bite
+**Late-night food delivery for college students.** Co-founded and built the backend pipelines plus an n8n-powered AI chatbot — clean UI, real users, real use case.
 
-`TypeScript` `Full-Stack`
+`TypeScript` `Full-Stack` `n8n` `AI Chatbot`
 
-[→ View Project](https://github.com/ShreyanshuGhosh/Nite.Bite)
+[![Repo](https://img.shields.io/badge/→_View_Project-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7)](https://github.com/ShreyanshuGhosh/Nite.Bite)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-###  E-Library
-A digital library system with a simple rule — borrow a book, but return it on time. Built in Python with a focus on usability.
+### 🧭 Claude Model Router
+**Chrome extension that saves your Claude quota.** Analyzes prompts on claude.ai in real time and recommends the right Claude model using a tier-based heuristic classifier — so heavy models are reserved for prompts that earn them.
 
-`Python` `Library System`
+`JavaScript` `Chrome Extension` `DOM` `Heuristics`
 
-[→ View Project](https://github.com/ShreyanshuGhosh/E-Library)
+[![Repo](https://img.shields.io/badge/→_View_Project-1a1b26?style=for-the-badge&logo=github&logoColor=9ece6a)](https://github.com/ShreyanshuGhosh/Claude-Model-Router)
 
 </td>
 <td width="50%" valign="top">
 
-### UIDAI Data Hackathon
-A hackathon submission around India's UIDAI dataset — data analysis, insights, and real-world problem solving.
+### 🛡️ Fraud Shield
+**ML-powered fraud detection.** Pattern analysis and anomaly detection on transaction data to flag fraudulent activity before it costs anything.
 
-`Data Analysis` `Hackathon`
+`Python` `ML` `Anomaly Detection`
 
-[→ View Project](https://github.com/ShreyanshuGhosh/UIDAI_Data_Hackathon)
+[![Repo](https://img.shields.io/badge/→_View_Project-1a1b26?style=for-the-badge&logo=github&logoColor=f7768e)](https://github.com/ShreyanshuGhosh/Fraud-Shield)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- ═══════════════════ DYNAMIC STATS (auto-update on every commit) ═══════════════════ -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ShreyanshuGhosh&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShreyanshuGhosh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=ShreyanshuGhosh&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7" width="49%" alt="Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshuGhosh&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&langs_count=8" width="42%" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- Trophies — auto-update with achievements -->
+<img src="https://github-profile-trophy.vercel.app/?username=ShreyanshuGhosh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="Trophies"/>
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Activity
+<!-- ═══════════════════ ACTIVITY GRAPH (auto-updates) ═══════════════════ -->
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshuGhosh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshuGhosh&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=414868" width="97%" alt="Activity Graph"/>
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
-
+<!-- ═══════════════════ SNAKE (auto-regenerates daily via Action) ═══════════════════ -->
 <div align="center">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ShreyanshuGhosh/ShreyanshuGhosh/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyanshuGhosh/ShreyanshuGhosh/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ShreyanshuGhosh/ShreyanshuGhosh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</picture>
 
 </div>
 
----
+<br/>
 
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
 <div align="center">
 
-**"Smart work pays."**
+### 💬 *"Smart work pays."*
 
-*Let's build something great — reach out anytime.*
+**Let's build something great — reach out anytime.**
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshu-ghosh)
+<a href="https://www.linkedin.com/in/shreyanshu-ghosh">
+  <img src="https://img.shields.io/badge/Let's_Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b26" alt="Connect"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=120&section=footer" width="100%"/>
 
 </div>
