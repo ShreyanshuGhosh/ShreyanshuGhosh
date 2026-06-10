@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=Shreyanshu%20Ghosh&fontColor=c0caf5&fontSize=55&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source&descAlignY=55&descSize=18&descColor=7aa2f7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=Shreyanshu%20Ghosh&fontColor=c0caf5&fontSize=55&fontAlignY=35&desc=AI%2FML%20Learner%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source&descAlignY=55&descSize=18&descColor=7aa2f7&animation=fadeIn" width="100%"/>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <a href="https://git.io/typing-svg">
@@ -29,11 +29,11 @@
 ```python
 class Shreyanshu:
     def __init__(self):
-        self.role      = "ECE @ BIT Mesra • ML Intern @ Tesk Labs"
+        self.role      = "ECE @ BIT Mesra • ML Intern @ Tesk Labs • Co-Founded NiteBite"
         self.building  = ["SYNQ — multi-provider LLM orchestration",
                           "LLM-powered compliance tooling",
                           "Quant alphas on WorldQuant Brain"]
-        self.stack     = ["Python", "PyTorch", "FastAPI", "MLOps", "Postgres/Redis"]
+        self.stack     = ["Python", "LLMs", "FastAPI", "MLOps", "Postgres/Redis"]
         self.philosophy = "Ship fast, learn faster. Clean code is a love language."
 
     def say_hi(self):
@@ -83,7 +83,7 @@ class Shreyanshu:
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 SYNQ
+###  SYNQ
 **Multi-provider LLM orchestration platform.** Seamless AI conversation continuity across Claude, GPT-4 & Gemini with automatic provider switching on rate limits. FastAPI backend, six-component context engine, Qdrant vector search, Postgres/Redis data plane, deployed at the Cloudflare edge.
 
 `FastAPI` `LiteLLM` `Qdrant` `Postgres` `Redis` `Cloudflare`
@@ -93,7 +93,7 @@ class Shreyanshu:
 </td>
 <td width="50%" valign="top">
 
-### 🌙 Nite.Bite
+###  NiteBite
 **Late-night food delivery for college students.** Co-founded and built the backend pipelines plus an n8n-powered AI chatbot — clean UI, real users, real use case.
 
 `TypeScript` `Full-Stack` `n8n` `AI Chatbot`
@@ -105,7 +105,7 @@ class Shreyanshu:
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 Claude Model Router
+###  Claude Model Router
 **Chrome extension that saves your Claude quota.** Analyzes prompts on claude.ai in real time and recommends the right Claude model using a tier-based heuristic classifier — so heavy models are reserved for prompts that earn them.
 
 `JavaScript` `Chrome Extension` `DOM` `Heuristics`
@@ -115,7 +115,7 @@ class Shreyanshu:
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Fraud Shield
+###  Fraud Shield
 **ML-powered fraud detection.** Pattern analysis and anomaly detection on transaction data to flag fraudulent activity before it costs anything.
 
 `Python` `ML` `Anomaly Detection`
